@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "title": "MongoDb",
+      "author": "shahshi",
+      "id": 4
+    },
+    {
+      "title": "css",
+      "author": "nandhita",
+      "id": 7
+    },
+    {
+      "title": "NodeJs",
+      "author": "Shashi",
+      "id": 8
+    },
+    {
+      "title": "java",
+      "author": "akshay",
+      "id": 9
+    }
+  ]
+}
